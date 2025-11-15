@@ -1,5 +1,5 @@
 # Superstore Sales Dashboard - Power BI
-## Project OverView
+## Project Overview
 This project is a part of a Data Analyst Internship Task focused on **Data Visualization & Storytelling**.
 Using Power BI, I created on interactive dashboard to analyze Superstore sales performance across states, categories, and time.
 
@@ -46,7 +46,7 @@ These fields were later used for slicer and time-series visuals.
 
 ##  Files in This Repository
 - 'Superstore dashboard.pdf' → Exported Power BI dashboard  
-- 'dataset.csv' → Superstore dataset used  
+- 'dataset.csv' → Superstore dataset used (Kaggle) 
 - 'README.md' → Project explanation  
 - Screenshot folder (optional)
 
