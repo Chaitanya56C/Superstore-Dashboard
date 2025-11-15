@@ -6,10 +6,10 @@ Using Power BI, I created on interactive dashboard to analyze Superstore sales p
 ## Data Cleaning & Preparation
 - Loaded the **Superstore dataset** into **Power BI**
 - Used **Power Query** for initial cleaning:
- -Verified correct data types
- -Removed unnecessary columns
- -Ensuredd *Order Date* was in proper Date format
- -Checked for null or missing values
+ - Verified correct data types
+ - Removed unnecessary columns
+ - Ensuredd *Order Date* was in proper Date format
+ - Checked for null or missing values
   
 - Created new data columns using **DAX**:
  - **MonthName** = FORMAT([Order Date],"MMM")
@@ -48,7 +48,7 @@ These fields were later used for slicer and time-series visuals.
 - 'Superstore dashboard.pdf' → Exported Power BI dashboard  
 - 'dataset.csv' → Superstore dataset used (Kaggle) 
 - 'README.md' → Project explanation  
-- Screenshot folder (optional)
+- Screenshot folder
 
 ## Tools Used
 - **Power BI Desktop**
