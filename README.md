@@ -44,8 +44,6 @@ These fields were later used for slicer and time-series visuals.
 - Observed monthly and yearly sales trends  
 - Compared regional sales using geographic data  
 
----
-
 ##  Files in This Repository
 - 'Superstore dashboard.pdf' → Exported Power BI dashboard  
 - 'dataset.csv' → Superstore dataset used  
